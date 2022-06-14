@@ -1,4 +1,4 @@
-# SQL-GoogleBigquery-PlaystoreApps
+# SQL-GoogleBigquery-PlaystoreApps | Dashboard using PowerBi
 ## Analyzing the data of applications available on google playstore.
 This project contains the SQL code analyzing the data of apps on google playstore for the year 2018. The code is written in Google Cloud BigQuery platform which can be accessed [here](https://console.cloud.google.com/bigquery?sq=696516268253:68fd06cd058c4f6f9fd2a5ab75df1ebf).
 The dataset which has been taken from a bootcamp class provides the following information regarding the apps:
@@ -39,3 +39,6 @@ There are total 7873 apps, out of which, 7294 are free while 579 are paid. The a
 
 ![image](https://user-images.githubusercontent.com/99166745/173042456-d96d2688-79e6-4b9c-a0eb-84e3dbfde63a.png)
 
+
+## A glimpse of dashboard prepared for analysis using PowerBi
+![Dashboard_google_playstore](https://user-images.githubusercontent.com/99166745/173584152-90c8a16b-512f-4286-900d-04abc0560906.png)
